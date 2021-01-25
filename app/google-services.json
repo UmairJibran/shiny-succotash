@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "463977137808",
+    "project_id": "mob-dev-final",
+    "storage_bucket": "mob-dev-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463977137808:android:e31813b47de8108e9dba15",
+        "android_client_info": {
+          "package_name": "com.umairjibran.mobiledevelopmentlabfinalexam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463977137808-uef6kardt75d86qe8kcup45mmb9rlqrv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmB3P6Djv0UVRzXDn2gAyC8ztAkpMdXOI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463977137808-uef6kardt75d86qe8kcup45mmb9rlqrv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

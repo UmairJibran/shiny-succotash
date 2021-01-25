@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Mobile Development Lab Final Exam</string>
+    <string name="user_login_activity">User Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="invalid_email">Not a valid email</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="welcome_img">Welcome Image</string>
+    <string name="user_login">User login</string>
+    <string name="user_register">User Register</string>
+    <string name="admin_login">Admin login</string>
+    <string name="user_register_title">User Registration</string>
+    <string name="register_user">Register User</string>
+    <string name="title_activity_admin_login">AdminLogin</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+</resources>
